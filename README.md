@@ -5,3 +5,6 @@ Write the length of the sentence and then add the word you want the sentence to 
 <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/93V2zJF/aaa.png" alt="aaa" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/641cpq0/bbbb.png" alt="bbbb" border="0"></a>
+
+<br>
+If you want to add new books convert them to txt file and add them to books folder
