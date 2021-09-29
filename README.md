@@ -1,6 +1,8 @@
 <h1> Lore Impsum Generator From Books</h1>
-
-Useage:
+<br>
+Are you bored of meaningless generic Lorem ipsum words? If yes then here you can use any book you want to generate sentences that you want which actually has a meaning
+<br><br>
+<h1>Useage:</h1>
 Write the length of the sentence and then add the word you want the sentence to contain. Such as "10 come". 
 <br>
 <br>
